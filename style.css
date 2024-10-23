@@ -101,13 +101,6 @@ body {
     background-color: rgb(9, 9, 10); /* Color más oscuro al pasar el ratón */
 }
 
-
-h1 {
-    font-size: large;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /*Cambio de fuente a todos los titulos h1*/
-    text-align: left; /*Para agregar el texto a la Izquierda */
-}
-
 p {
    font-size: 16px; /* Para cambiar el tamano  de letra a los parrafos */
 }
